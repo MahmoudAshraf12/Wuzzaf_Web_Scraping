@@ -1,1 +1,2 @@
-# web_scraping
+# Wuzzaf Web Scraping
+### Scraping Jobs data from Wuzzaf 
